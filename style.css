@@ -1,0 +1,15 @@
+
+body {
+    background-color: #39ff14;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    
+}
+.hidden{
+    display: none ;
+    color: #ff2c2c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+} 
+
+
